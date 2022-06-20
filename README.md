@@ -4,7 +4,7 @@ Objective: Build an app that is functionally similar to https://tribute-page.fre
 
 User Stories:
 
-1. Your tribute page should have an element with a corresponding '''id="main"''', which contains all other elements
+1. Your tribute page should have an element with a corresponding ´´´id="main"´´´, which contains all other elements
 2. You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
 3. You should see either a figure or a div element with an id of img-div
 4. Within the #img-div element, you should see an img element with a corresponding id="image"
