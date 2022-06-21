@@ -31,7 +31,9 @@ body {
 }
 #image {
   width: 600px;
-  height: 764px;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 #img-caption {
